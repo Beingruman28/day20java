@@ -1,0 +1,8 @@
+package day20java;
+
+public enum WeekDay {
+
+	MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY;
+	
+}
+
